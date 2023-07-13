@@ -2,7 +2,7 @@ table, td, th {
 	border: 1px solid;
 	text-align: center;
 }
-.bg {
+td .bg {
 	background-color: rgb(0, 0, 0);
 	color: white;
 }
