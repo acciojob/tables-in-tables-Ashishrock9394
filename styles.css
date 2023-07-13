@@ -3,6 +3,6 @@ table, td, th {
 	text-align: center;
 }
 td .bg {
-	background-color: rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0, 0);
 	color: white;
 }
