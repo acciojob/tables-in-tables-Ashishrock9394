@@ -1,23 +1,16 @@
-table,
-th,
-tr,
-td {
-	border: 1px solid black;
-}
-
-.Data1 {
-	width: 250px;
-	height: 200px;
-}
-
-.Row1 {
+table, th, tr, td{
+	border: 1px solid;
 	text-align: center;
 }
-
-.tab1 {
+.nested2{
 	width: 100%;
 }
-
-.Data2 {
-	height: 100px
+.nested1{
+	width: 100%;
+}
+.nested3{
+	width: 100%;
+}
+.nested4{
+	width: 100%;
 }
